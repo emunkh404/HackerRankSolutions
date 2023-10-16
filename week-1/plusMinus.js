@@ -24,4 +24,4 @@ function plusMinus(arr) {
 }
 
 const arr = [-4, 3, -9, 0, 4, 1];
-plusMinus(arr);
+plusMinus(arr); // 0.500000 0.333333 0.166667
